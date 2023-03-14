@@ -24,3 +24,5 @@ ___
 * * ___VS Code___
 _____
 _____
+* ## About me 
+* ___Try to develop my skills and grow as a specialist in my field___
