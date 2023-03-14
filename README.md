@@ -1,2 +1,2 @@
 # rsschool-cv
-donstereo.github.io/rsschool-cv/
+https://donstereo.github.io/rsschool-cv/
